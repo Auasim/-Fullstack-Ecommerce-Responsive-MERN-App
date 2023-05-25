@@ -1,5 +1,6 @@
-# -Fullstack-Ecommerce-Responsive-MERN-App
  <img width=500px height=200px src="React.png" alt="Project logo">
+
+# -Fullstack-Ecommerce-Responsive-MERN-App
 
 # Getting Started with Create React App
 
