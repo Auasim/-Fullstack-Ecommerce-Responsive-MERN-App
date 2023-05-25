@@ -7,8 +7,10 @@
 
 Backend Environment variables  : 
 
-MONGODB_URL : ""
+MONGODB_URL : "",
+
 STRIPE_SECRET_KEY : "",
+
 FRONTEND_URL : "",
 
 MY Backend URL : https://backend-mern-kowt.onrender.com
